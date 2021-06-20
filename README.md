@@ -28,9 +28,5 @@ https://www.treinaweb.com.br/
 <img src="https://github.com/alvarosantosph/treinaweb-workshop-multistack-react/blob/main/e-diaristas-admin-edicao.png">
 
 <p align="center">
-  <img src="https://github.com/alvarosantosph/treinaweb-workshop-multistack-react/blob/main/e-diaristas-mobile-1.png">
-</p>
-
-<p align="center">
-  <img src="https://github.com/alvarosantosph/treinaweb-workshop-multistack-react/blob/main/e-diaristas-mobile-2.png">
+  <img src="https://github.com/alvarosantosph/treinaweb-workshop-multistack-react/blob/main/e-diaristas-mobile.png">
 </p>
